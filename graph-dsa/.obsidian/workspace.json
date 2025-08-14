@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "g2"
             }
+          },
+          {
+            "id": "c264f291262fc3d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "g4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "g4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4347966487804a31",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "g2.md",
+                "file": "g4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for g2"
+              "title": "Backlinks for g4"
             }
           },
           {
@@ -129,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "g2.md",
+                "file": "g4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from g2"
+              "title": "Outgoing links from g4"
             }
           },
           {
@@ -158,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "g2.md",
+                "file": "g4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of g2"
+              "title": "Outline of g4"
             }
           }
         ]
@@ -184,9 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90f339602e55d1a8",
+  "active": "c264f291262fc3d7",
   "lastOpenFiles": [
-    "Welcome.md",
-    "g2.md"
+    "g2.md",
+    "g4.md",
+    "Welcome.md"
   ]
 }
